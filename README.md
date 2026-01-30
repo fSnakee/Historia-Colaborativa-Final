@@ -2,4 +2,3 @@
 [INICIO]
 [NUDO]
 [DESCENLACE]
-[Nombre]
